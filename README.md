@@ -1,1 +1,1 @@
-https://jakubwis.github.io/15.6-trello/
+https://jakubwis.github.io/16.7-trello/
